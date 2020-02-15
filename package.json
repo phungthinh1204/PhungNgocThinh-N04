@@ -18,7 +18,7 @@
     "react-native-gesture-handler": "^1.4.1",
     "react-navigation": "^4.0.10",
     "react-navigation-stack": "^1.9.3",
-    "yarn": "^1.19.0"
+    "yarn": "^1.22.0"
   },
   "devDependencies": {
     "@babel/core": "7.6.2",
